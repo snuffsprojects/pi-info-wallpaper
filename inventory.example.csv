@@ -1,0 +1,4 @@
+host,user,role,colour
+office-pi.local,pi,Office Display,#10243a
+living-room-pi.local,pi,Media Centre,#183028
+workshop-pi.local,pi,Workshop Controller,#2b1838

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <style>
+    text { font-family: "DejaVu Sans", "Liberation Sans", sans-serif; }
+    .kicker { fill: #ffad42; font-size: 14px; font-weight: 700; letter-spacing: 3px; }
+    .title { fill: #f4f1e9; font-size: 34px; font-weight: 700; }
+    .label { fill: #9ca59e; font-size: 12px; font-weight: 700; letter-spacing: 1px; }
+    .value { fill: #f4f1e9; font-size: 16px; }
+    .updated { fill: #737b75; font-size: 11px; }
+  </style>
+  <rect width="100%" height="100%" fill="#10243a"/>
+  <circle cx="1080" cy="100" r="240" fill="#18334e"/>
+  <circle cx="1100" cy="640" r="330" fill="#0b1c2d"/>
+  <rect x="42" y="83" width="545" height="550" rx="20" fill="#171b19" fill-opacity=".95" stroke="#303832"/>
+  <rect x="42" y="83" width="7" height="550" rx="4" fill="#ffad42"/>
+  <text x="78" y="133" class="kicker">RASPBERRY PI</text>
+  <text x="78" y="183" class="title">office-pi</text>
+  <line x1="78" y1="205" x2="551" y2="205" stroke="#303832"/>
+  <text x="78" y="250" class="label">MODEL</text><text x="205" y="250" class="value">Pi 5 Model B · Rev 1.0</text>
+  <text x="78" y="292" class="label">MEMORY</text><text x="205" y="292" class="value">8 GB</text>
+  <text x="78" y="334" class="label">IP ADDRESS</text><text x="205" y="334" class="value">192.0.2.25</text>
+  <text x="78" y="376" class="label">OS</text><text x="205" y="376" class="value">Raspberry Pi OS</text>
+  <text x="78" y="418" class="label">ROLE</text><text x="205" y="418" class="value">Office display</text>
+  <text x="78" y="460" class="label">UPTIME</text><text x="205" y="460" class="value">2d 3h</text>
+  <text x="78" y="602" class="updated">Updated 19 Oct 2026 · 12:00</text>
+</svg>

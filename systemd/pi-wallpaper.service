@@ -1,0 +1,8 @@
+[Unit]
+Description=Refresh Raspberry Pi identification wallpaper
+After=graphical-session.target network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=@HOME@/.local/bin/pi-wallpaper-refresh
+

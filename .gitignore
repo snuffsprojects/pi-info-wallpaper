@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.coverage
+htmlcov/
+inventory.csv
+wallpaper.svg
